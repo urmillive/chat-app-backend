@@ -116,4 +116,20 @@ Thumbs.db
 
 # Backup files
 *.bak
-*.backup 
+*.backup .next/
+.turbo/
+.dart_tool/
+Pods/
+.gradle/
+__pycache__/
+.venv/
+venv/
+.env.*
+!.env.example
+!.env.sample
+*.p8
+*.pem
+*.jks
+*.keystore
+client_secret*.json
+*service-account*.json
